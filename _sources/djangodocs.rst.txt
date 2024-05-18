@@ -1,0 +1,45 @@
+djangodocs package
+==================
+
+Submodules
+----------
+
+djangodocs.asgi module
+----------------------
+
+.. automodule:: djangodocs.asgi
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+djangodocs.settings module
+--------------------------
+
+.. automodule:: djangodocs.settings
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+djangodocs.urls module
+----------------------
+
+.. automodule:: djangodocs.urls
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+djangodocs.wsgi module
+----------------------
+
+.. automodule:: djangodocs.wsgi
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: djangodocs
+   :members:
+   :undoc-members:
+   :show-inheritance:

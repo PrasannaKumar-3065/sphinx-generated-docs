@@ -1,0 +1,35 @@
+.. _feedbackprocess:
+
+Feedback Process flow
+---------------------
+
+1.	QT test an issues which is released by DT.
+2.	If the issue does not exists again, QT closed the issue.
+3.	If the issue exists again, QT changes the status of the issue to feedback in bug tracker.
+4.	QT send a feedback mail to DT member who got 1st feedback.
+5.	QT check whether DT member send comment for feedback.
+6.	If DT member does not reply to the feedback mail, QT will send an reminder mail to the DT member. Repeat the process 5 and 6 until QT get the comment from DT for feedback.
+7.	If DT member replied to the feedback mail, QT update the comments  for feedback issue in bug tracker.
+8.	If DT does not fix the feedback issue in 48 hours, QT will send a mail to DT.
+9.	If DT fix the feedback issues in 48 hours, DT release the feedback issue to QT after solving it.
+9.1.	QT again test the issue which is released by DT, If the issue does not exists again, QT closed the issue.
+9.2.	If the issue exists again, QT will change the status of that issue from resolved to  feed back in bug tracker.
+9.3.	Then QT send 2nd feedback mail to the DT members.
+10.	If DTL does not reply to the feedback mail, QT will send a reminder mail to DTL
+11.	QT check whether DTL send comment for 2nd feedback issue. Repeat the process 10 and 11 until QT get the comment from DTL for feedback.
+12.	After get the DTL comment for feedback, QT update the comments for feedback issue in the bug tracker.
+13.	After that DT does not fix the issue in 48 hours, QT will send a mail to DT.
+14.	If DT fix the feedback issues in 48 hours, DT release the feedback issue to QT after solving it.
+14.1.	QT again test the issue which is released by DT, If the issue does not exists again, QT closed the issue.
+14.2.	If the issue exists again, QT will change the status of that issue from resolved to feed back in bug tracker.
+14.3.	Then QT send feedback mail to the DT members.
+15.	If PM does not reply to the feedback mail, QT will send a reminder mail to DTL.
+16.	QT check whether PM send comment for feedback issue. Repeat the process 15 and 16 until QT get the comment from PM for feedback.
+17.	After get the PM comment for feedback, QT update the comments for feedback issue in the bug tracker.
+18.	After that DT does not fix the issue in 48 hours, QT will send a mail to DT.
+19.	If DT fix the feedback issues in 48 hours, DT release the feedback issue to QT after solving it.
+
+Done By  								           Verified By
+
+(KALAIMANI P)							         (JOHNNY P)
+

@@ -1,0 +1,9 @@
+djangodocs
+==========
+
+.. toctree::
+   :maxdepth: 4
+
+   demoapp
+   djangodocs
+   manage

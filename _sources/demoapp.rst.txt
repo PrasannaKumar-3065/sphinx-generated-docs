@@ -1,0 +1,69 @@
+demoapp package
+===============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   demoapp.migrations
+
+Submodules
+----------
+
+demoapp.admin module
+--------------------
+
+.. automodule:: demoapp.admin
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+demoapp.apps module
+-------------------
+
+.. automodule:: demoapp.apps
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+demoapp.models module
+---------------------
+
+.. automodule:: demoapp.models
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+demoapp.tests module
+--------------------
+
+.. automodule:: demoapp.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+demoapp.urls module
+-------------------
+
+.. automodule:: demoapp.urls
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+demoapp.views module
+--------------------
+
+.. automodule:: demoapp.views
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: demoapp
+   :members:
+   :undoc-members:
+   :show-inheritance:

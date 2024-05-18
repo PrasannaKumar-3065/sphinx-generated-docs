@@ -1,0 +1,24 @@
+.. _issueprocess:
+
+Issue Process Flow
+------------------
+
+1.	QT test the pages released by DT and UI.
+If issues not exists:
+2.	End the process.
+If issues exists:
+3.	QT raise the issues in bug tracker.
+4.	QT send a mail to DT, UI.
+5.	DT and UI fix the issues which are raised in bug tracker.
+6.	After that DT and UI release the pages to QT.
+7.	Again QT test the pages.
+If issues not exists:
+7.1.	End the process.
+If issues exists:
+7.2.	Repeat the process 3 to 7 until all the issues are fixed.
+Done By  								           Verified By
+(KALAIMANI P)							         (JOHNNY P)
+
+
+
+

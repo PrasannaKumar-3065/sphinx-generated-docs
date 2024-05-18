@@ -1,0 +1,39 @@
+.. _customerchanges:
+
+Customer Changes For Attribute And Activation
+---------------------------------------------
+
+1.	Client send a mail to QT about the customer changes.
+2.	QT investigates about the changes.
+3.	 If changes not requires, QT sends a mail to client which indicates no changes required.
+4.	If changes required in increasing the users, MT send mail to SA to work on the particular changes. SA work on the particular changes and release to MT.
+5.	MT verifies the changes and release to QT. QT tests the particular account changes.
+6.	If issues occurs, QT follow the issue process.
+7.	QT send a mail to client which indicates customer changes have been completed.
+8.	 If changes required in increasing the storage space, MT send mail to SA to work on the particular changes. SA work on the particular changes and release to MT. 
+9.	MT verifies the changes and release to QT. QT tests the particular account changes.
+10.	If issues occurs , QT follow the issue process.
+11.	QT send a mail to client which indicates customer changes have been completed.
+12.	If changes required in activating  the SSL encryption, MT send mail to SA to work on the particular changes. SA work on the particular changes and release to MT. 
+13.	MT verifies the changes and release to QT. QT tests the particular account changes.
+14.	If issues occurs , QT follow the issue process.
+15.	QT send a mail to client which indicates customer changes have been completed.
+16.	If changes required in deleting the paid account, MT send mail to SA to work on the particular changes. SA work on the particular changes and release to MT. 
+17.	MT verifies the changes and release to QT. QT tests the particular account changes.
+18.	If issues occurs , QT follow the issue process.
+19.	QT send a mail to client which indicates customer changes have been completed.
+20.	If changes required in deactivate any module, MT send mail to SA to work on the particular changes. SA work on the particular changes and release to MT. 
+21.	MT verifies the changes and release to QT. QT tests the particular account changes.
+22.	If issues occurs , QT follow the issue process.
+23.	QT send a mail to client which indicates customer changes have been completed.
+24.	If changes required in activate any module, MT send mail to SA to replicate the particular paid account to testing account.
+25.	 SA work on the particular changes and release to MT. 
+26.	MT verifies the changes and release to QT. QT tests the particular account changes.
+27.	If issues occurs , QT follow the issue process.
+28.	QT send a mail to client which indicates customer changes have been completed.
+
+
+Done By  								           Verified By
+
+(KALAIMANI P)							         (JOHNNY P)
+

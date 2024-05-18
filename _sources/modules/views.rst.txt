@@ -1,0 +1,6 @@
+Views
+======
+
+.. automodule:: demoapp.views
+   :members:
+   :undoc-members:

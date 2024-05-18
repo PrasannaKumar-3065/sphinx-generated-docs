@@ -1,0 +1,61 @@
+.. _moduledevelopment:
+
+Module Development Process Flow 
+-------------------------------
+
+1.	QT get the requirements of the module from client in mail.
+2.	DT go through the requirement documents.
+3.	DT make a discussion with QT about the requirements.
+
+--------
+
+Clarification needs:
+    3.1.    QT and DT make a discussion with client about the requirements.
+    3.2.    Repeat the discussion until no needs of clarification.
+
+--------
+4.	QT follows the UI design process flow.
+5.	DT create then Database design.
+6.	DT send the Database design to MD.
+    Not get approval from MD:
+7.	Make the changes that which the comments given by MD.
+8.	Repeat the process 6 and 7 until MD approve the Database design.
+    Get approval from MD:
+9.	DT start the work on coding to develop the module.
+10.	DT fix the issues, changes and bugs.
+11.	After fixing the above, DT release the module to QT
+12.	QT test the module.
+    Issues raised by QT in bug tracker:
+13.	DT fix the issues, changes and bugs.
+14.	After fixing the above, DT release the module to QT
+15.	Repeat 13 and 14 until all the issues get fixed and no issues occurs.
+    Issues not raised by QT in bug tracker:
+16.	QT release the module to client by mail.
+   
+17.	Client send the comment sheet issues:
+
+--------
+
+Need some clarification about the comment sheet issues:
+    17.1.	DT, QT make a discussion with client about the comment sheet issues.
+    17.2.	Repeat the process 13 to 17 until no issues found.
+No need some clarification about the comment sheet issues:
+    17.3.	Repeat the process 13 to 17 until no issues found.
+
+--------
+
+18.	Client does not send the comment sheet issues:
+
+--------
+
+    18.1.	Need for the approve to release the module from the client.
+No approval to release the module:
+    18.2.	Wait for the approval.
+approval to release the module:
+    18.3.	Release to all paid and demo account by following the ‘module release process flow’. 
+
+--------
+
+Done By  								           Verified By
+(KALAIMANI P)							         (JOHNNY P)
+
